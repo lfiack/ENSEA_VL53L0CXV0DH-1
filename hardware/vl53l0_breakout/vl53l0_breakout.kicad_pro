@@ -508,7 +508,7 @@
       "idf": "",
       "netlist": "",
       "plot": "../vl53l0_gerber/",
-      "pos_files": "",
+      "pos_files": "../vl53l0_gerber/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -588,10 +588,10 @@
           "show": false
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "JLCPCB",
           "name": "JLCPCB",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
